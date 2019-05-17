@@ -4,4 +4,6 @@ public class test{
         int a = tools.getInt("Give me a number");
         System.out.println(a);
     }
+    
+    //
 }
